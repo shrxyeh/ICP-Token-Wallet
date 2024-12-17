@@ -14,5 +14,9 @@
   "type": "module",
   "workspaces": [
     "src/token_wallet_frontend"
-  ]
+  ],
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Shreyash <shreyashnaik304@gmail.com>",
+  "license": "MIT"
 }
